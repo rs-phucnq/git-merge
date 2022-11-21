@@ -1,3 +1,8 @@
+# v1.0.1 - 20221121
+
+* [rs-06] Remove NAL content on sample file
+[PR#8] (https://github.com/rs-phucnq/git-merge/pull/8)
+
 # v1.0.0 - 20221121
 
 * [rs-04] Remove EST content on sample file
